@@ -1,0 +1,1 @@
+00 06 * * * cd /home/<user>/dev/test-rates/rates && /home/<user>/dev/test-rates/.venv/bin/python3.10 manage.py get_currencies_from_cbr
